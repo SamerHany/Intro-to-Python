@@ -16,7 +16,7 @@ Whether you're new to programming or looking to brush up on your skills, this pl
    - Key features and applications
    - Setting up Python and your development environment
 
-2. **Variables and Primitive Data Types**
+2. **[Variables and Primitive Data Types](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=2)**
 
    - Introduction to variables
    - Primitive data types: integers, floats, strings, booleans
