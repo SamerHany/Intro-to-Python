@@ -86,6 +86,16 @@ Whether you're new to programming or looking to brush up on your skills, this pl
     - Additional resources for further learning
     - Tips for practicing and improving your Python skills
 
+## 🤝 Join our Discord community:
+
+This community is a place where we can all learn, share knowledge, and grow together. Whether you’re just starting out, looking to brush up on your skills, or seeking to make a career change, you’re in the right place!
+
+- [Join 🔗](https://discord.gg/7ZzmGWQR)
+
+## 👀 About me:
+
+I’m Samer Hany, a full-stack developer and data scientist with a passion for teaching and helping others. I’ve been working in the field for over 10 years, specializing in workflow automation, web development, and data science.
+
 ## 🔗 Find me Here
 
 **Samer Hany** | Full-stack Developer & Data Scientist

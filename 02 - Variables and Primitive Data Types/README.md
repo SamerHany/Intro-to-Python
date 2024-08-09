@@ -18,3 +18,5 @@ By the end of this tutorial, you'll understand what variables are, the different
 📚 Resources:
 
 - [YouTube Video Tutorial](https://www.youtube.com/watch?v=DFEz-CglTRs&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=2)
+
+- [Discord Community](https://discord.gg/7ZzmGWQR)

@@ -18,6 +18,8 @@ Welcome to the first tutorial in the "Intro to Python" series! In this video, we
 
 - [YouTube Video Tutorial](https://www.youtube.com/watch?v=DFEz-CglTRs&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=1)
 
+- [Discord Community](https://discord.gg/7ZzmGWQR)
+
 - [Python download](https://www.python.org/downloads/)
 
 - [VS Code download](https://code.visualstudio.com/download)
