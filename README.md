@@ -22,7 +22,7 @@ Whether you're new to programming or looking to brush up on your skills, this pl
    - Primitive data types: integers, floats, strings, booleans
    - Type conversion and basic operations
 
-3. **Data Structures**
+3. **[Data Structures](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=3)**
 
    - Introduction to lists, tuples, sets, and dictionaries
    - Creating, accessing, and modifying these data structures
