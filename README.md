@@ -26,13 +26,13 @@ Whether you're new to programming or looking to brush up on your skills, this pl
 
    - Introduction to lists, tuples, sets, and dictionaries
    - Creating, accessing, and modifying these data structures
+   - Comparison between primitive and reference data types
 
-4. **Control Flow**
+4. **[Control Flow](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=4)**
 
    - `if`, `elif`, and `else` statements
    - Nested conditions
    - `for` loops and `while` loops
-   - Practical examples and exercises
 
 5. **Functions**
 
