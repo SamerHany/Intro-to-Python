@@ -34,7 +34,7 @@ Whether you're new to programming or looking to brush up on your skills, this pl
    - Nested conditions
    - `for` loops and `while` loops
 
-5. **Functions**
+5. **[Functions](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=5)**
 
    - Defining and calling functions
    - Function parameters and return values
