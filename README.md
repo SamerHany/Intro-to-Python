@@ -40,7 +40,7 @@ Whether you're new to programming or looking to brush up on your skills, this pl
    - Function parameters and return values
    - Scope and lifetime of variables
 
-6. **Modules and Packages**
+6. **[Modules and Packages](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=6)**
 
    - Importing standard and third-party modules
    - Creating and using your own modules
