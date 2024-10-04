@@ -46,7 +46,7 @@ Whether you're new to programming or looking to brush up on your skills, this pl
    - Creating and using your own modules
    - Understanding packages
 
-7. **File Handling**
+7. **[File Handling](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=7)**
 
    - Reading from and writing to files
    - Working with different file modes
@@ -65,23 +65,30 @@ Whether you're new to programming or looking to brush up on your skills, this pl
    - Understanding attributes and methods
    - Understanding inheritance and creating subclasses
 
-10. **Python Project #1**
+10. **Maximize Efficiency with GitHub and AI**
+
+    - Introduction to GitHub for version control and collaboration.
+    - Leveraging GitHub Copilot for real-time AI-powered code assistance.
+    - Using ChatGPT to enhance code quality, documentation, and problem-solving.
+    - Practical examples of integrating AI tools into your coding workflow for maximum productivity.
+
+11. **Python Project #1**
 
     - TBD
 
-11. **Python Project #2**
+12. **Python Project #2**
 
     - TBD
 
-12. **Python Project #3**
+13. **Python Project #3**
 
     - TBD
 
-13. **Python Project #4**
+14. **Python Project #4**
 
     - TBD
 
-14. **Python Course Wrap-Up: Next Steps in Your Python Journey**
+15. **Python Course Wrap-Up: Next Steps in Your Python Journey**
     - Summary of key concepts learned
     - Additional resources for further learning
     - Tips for practicing and improving your Python skills
