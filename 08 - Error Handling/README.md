@@ -18,6 +18,6 @@ Welcome to the eighth tutorial in our "Intro to Python" series! In this video, w
 
 📚 Resources:
 
-- [YouTube Video Tutorial](https://www.youtube.com/watch?v=DFEz-CglTRs&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=8)
+- [YouTube Video Tutorial](https://www.youtube.com/watch?v=MANH4htMLbg&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=8)
 
 - [Python Documentation on Errors and Exceptions](https://docs.python.org/3/tutorial/errors.html)

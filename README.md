@@ -22,37 +22,37 @@ Whether you're new to programming or looking to brush up on your skills, this pl
    - Primitive data types: integers, floats, strings, booleans
    - Type conversion and basic operations
 
-3. **[Data Structures](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=3)**
+3. **[Data Structures](https://www.youtube.com/watch?v=VoSOSF3a_To&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=3)**
 
    - Introduction to lists, tuples, sets, and dictionaries
    - Creating, accessing, and modifying these data structures
    - Comparison between primitive and reference data types
 
-4. **[Control Flow](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=4)**
+4. **[Control Flow](https://www.youtube.com/watch?v=gxKhojgWGj4&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=4)**
 
    - `if`, `elif`, and `else` statements
    - Nested conditions
    - `for` loops and `while` loops
 
-5. **[Functions](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=5)**
+5. **[Functions](https://www.youtube.com/watch?v=fWL1peU5QW4&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=5)**
 
    - Defining and calling functions
    - Function parameters and return values
    - Scope and lifetime of variables
 
-6. **[Modules and Packages](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=6)**
+6. **[Modules and Packages](https://www.youtube.com/watch?v=EUSmXeuaHxo&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=6)**
 
    - Importing standard and third-party modules
    - Creating and using your own modules
    - Understanding packages
 
-7. **[File Handling](https://www.youtube.com/watch?v=QFtxPzXHeUk&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=7)**
+7. **[File Handling](https://www.youtube.com/watch?v=Ip7CjIFaJcI&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=7)**
 
    - Reading from and writing to files
    - Working with different file modes
    - Practical examples and exercises
 
-8. **Error Handling**
+8. **[Error Handling](https://www.youtube.com/watch?v=MANH4htMLbg&list=PLV57UHaznOBloZAvTazMzaFUkEl2EygNG&index=8)**
 
    - Introduction to exceptions
    - Using try-except blocks
